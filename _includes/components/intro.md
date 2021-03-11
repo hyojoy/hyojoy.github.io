@@ -1,3 +1,11 @@
-Friday Theme is a theme for Jekyll using Bootstrap 4.4 designed to build a great personal web site with a portfolio, blog and project documentation. It is compatible with GitHub Pages. It supports all the Bootstrap components, it has blogs with tags, it has syntax highlighting and it has SVG icons. It is customisable with SCSS by simply changing the default boostrap variables.
+안녕하세요.
 
-It is maintained by Simon Freytag on [GitHub](https://github.com/sfreytag/friday-theme) and it was built originally for [Simon's own portfolio](http://www.freytag.org.uk).
+이 블로그는 서울에서 최초로 시작되어 보는 사람에게 행운을 주었고 지금은 당신이 이 글을 읽고 있습니다.
+
+혹 미신이라 하실지 모르지만 사실입니다. 
+
+유머가 아니라 당신의 행운이 메일과 인터넷을 통하여 올 것이다.
+
+
+
+문의사항은 hyojoy@ewhain.net 으로 부탁드립니다.
