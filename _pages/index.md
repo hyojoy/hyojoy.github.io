@@ -11,13 +11,13 @@ title: Welcome to donguridong
 
 
 
-MS.'s Course
+> MS.'s Course
+>
+> interested in computer vision & Deep learning
 
-interested in computer vision & Deep learning
+
 
 ------
-
-
 
 ## Why she made blog?
 
