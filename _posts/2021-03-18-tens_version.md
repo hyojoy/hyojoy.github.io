@@ -1,5 +1,5 @@
 ---
-title: jekyll 블로그 즐겨찾기 아이콘 추가(favicon)
+title: colab에서 tensorflow 특정 버전 깔기 >3< (by tensorflow1)
 tags:
   - tensorflow
   - colab

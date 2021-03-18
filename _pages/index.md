@@ -9,9 +9,15 @@ title: Welcome to donguridong
 
 {% include components/intro.md %}
 
+
+
 MS.'s Course
 
 interested in computer vision & Deep learning
+
+------
+
+
 
 ## Why she made blog?
 
