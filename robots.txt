@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: http://hyojoy.github.io/sitemap.xml
